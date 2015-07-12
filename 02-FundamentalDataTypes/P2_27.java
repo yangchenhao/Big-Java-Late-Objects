@@ -23,5 +23,7 @@ public class P2_27 {
 
         int percents = Math.min(movieRentals + referredMembers, 75);
         System.out.printf("The discount is equal to: %d percent", percents);
+        
+        in.close();
     }
 }
