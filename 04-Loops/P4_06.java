@@ -1,5 +1,4 @@
-/*Translate the following pseudocode for finding the minimum value from a set of
-inputs into a Java program.
+/*Translate the following pseudocode for finding the minimum value from a set of inputs into a Java program.
 Set a Boolean variable "first" to true.
 While another value has been read successfully
      If first is true

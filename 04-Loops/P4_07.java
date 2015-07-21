@@ -1,5 +1,4 @@
-/*Translate the following pseudocode for randomly permuting the characters in a
-string into a Java program.
+/*Translate the following pseudocode for randomly permuting the characters in a string into a Java program.
 Read a word.
 Repeat word.length() times
      Pick a random position i in the word, but not the last position.

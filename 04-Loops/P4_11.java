@@ -6,7 +6,8 @@ Word         Syllables
 Harry         2
 hairy         2
 hare          1
-the           1*/
+the           1
+*/
 
 import java.util.Scanner;
 
