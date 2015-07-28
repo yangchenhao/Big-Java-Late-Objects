@@ -1,5 +1,5 @@
-/*Implement a class SodaCan with methods getSurfaceArea() and get­­
-Volume() . In the constructor, supply the height and radius of the can.*/
+/*Implement a class SodaCan with methods getSurfaceArea() and get­­Volume().
+In the constructor, supply the height and radius of the can.*/
 
 public class P8_05 {
     double height;
