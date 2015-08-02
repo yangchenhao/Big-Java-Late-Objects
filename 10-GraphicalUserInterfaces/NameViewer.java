@@ -9,7 +9,6 @@ import javax.swing.JFrame;
 
 @SuppressWarnings("serial")
 public class NameViewer extends JFrame {
-
     private final static int FRAME_WIDTH = 150;
     private final static int FRAME_HEIGHT = 150;
     private JComponent nameComponent;
@@ -17,7 +16,6 @@ public class NameViewer extends JFrame {
     public NameViewer() {
         this.nameComponent = new NameComponent();
         this.add(this.nameComponent);
-
         this.setSize(FRAME_WIDTH, FRAME_HEIGHT);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
