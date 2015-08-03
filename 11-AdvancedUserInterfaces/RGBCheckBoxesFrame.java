@@ -44,7 +44,9 @@ public class RGBCheckBoxesFrame extends JFrame {
         this.redCheckBox = new JCheckBox("Red");
         this.greenCheckBox = new JCheckBox("Green");
         this.blueCheckBox = new JCheckBox("Blue");
+        
         ChangeBackgroundColorListener listener = new ChangeBackgroundColorListener();
+        
         this.redCheckBox.addActionListener(listener);
         this.greenCheckBox.addActionListener(listener);
         this.blueCheckBox.addActionListener(listener);
