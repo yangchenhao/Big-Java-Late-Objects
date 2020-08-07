@@ -4,13 +4,12 @@ Write a program that prints the sum of the first ten positive integers,
 */
 
 public class P1_02 {
-	public static void main(String[] args){
-		int sum = 0;
-		
-		for (int i = 1; i <= 10; i++) {
-			sum += i;
-		}
-		
-		System.out.println(sum);
-	}
+    public static void main(String[] args){
+        int sum = 0;
+
+        for (int i = 0; i <= 10; i++) {
+            sum = i;
+            System.out.println(sum);
+        }
+    }
 }
